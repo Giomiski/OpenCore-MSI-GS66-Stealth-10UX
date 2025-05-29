@@ -10,6 +10,8 @@ This is an [OpenCore](https://github.com/acidanthera/OpenCorePkg) setup for the 
 | Network card | Intel Killer E3100X (Intel I225-LM) |
 | Wireless card | Intel AX210 |
 
+> List of all aviable models [GS66-Stealth-10UX](https://www.msi.com/Laptop/GS66-Stealth-10UX/Specification)
+
 # Configuration
 
 > [!IMPORTANT]
@@ -44,4 +46,4 @@ If you have the 300Hz display model add ```-igfxmpc``` to the boot-args to enabl
 
 After finishing installing macOS, transfer with a USB drive or download if you have an ethernet cable plugged in, the latest version of [OCLP](https://github.com/dortania/Opencore-Legacy-Patcher/releases), install it, than run ```Post-Install Root Patch```
 
-After finishing installing the root patches reboot when asked
+After finishing installing the root patches, reboot when asked
