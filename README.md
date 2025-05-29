@@ -1,0 +1,1 @@
+This is an [OpenCore](https://github.com/acidanthera/OpenCorePkg) configuration for the MSI GS66 Stealth 10UX series laptops
