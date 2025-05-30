@@ -1,0 +1,1 @@
+Refer to the [M.2](https://dortania.github.io/Wireless-Buyers-Guide/types-of-wireless-card/m2.html#m-2) section of the [Wireless Buyers Guide](https://dortania.github.io/Wireless-Buyers-Guide/) for supported models of Broadcom wireless cards
